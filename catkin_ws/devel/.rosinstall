@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/liujin/workspace/ros_program/catkin_ws/devel/setup.sh
